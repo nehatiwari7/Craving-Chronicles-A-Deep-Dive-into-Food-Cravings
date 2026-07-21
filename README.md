@@ -1,4 +1,4 @@
-🍫 Craving Chronicles: A Deep Dive into Food Cravings
+# 🍫 Craving Chronicles: A Deep Dive into Food Cravings
 
 A survey-based statistical study exploring the psychological, physiological, and demographic drivers behind food cravings, using Ordinal Logistic Regression, Exploratory Factor Analysis (EFA), and Structural Equation Modeling (SEM).
 
